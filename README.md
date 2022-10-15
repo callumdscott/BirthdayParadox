@@ -21,3 +21,10 @@ In the terminal, navigate to the repo directory and run:
 ```
 python3 main.py
 ```
+
+## Future Work
+
+- [ ] add additional experiments
+- [ ] extract out the experiment setup and generalise in a seperate file
+- [ ] provide a loop so users can run multiple experiments
+- [ ] provide functionality for generating plots for a range of samples sizes
